@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Chevrolet Corvette Stingray",
+    "description": "Icono americano con motor V8 de 495 caballos de fuerza, diseño aerodinámico y tecnología avanzada. Un deportivo que combina lujo y rendimiento.",
+    "image": "https://bit.ly/3Z3OGHM",
+    "cost": 1195000.00
+  },
+  {
+    "title": "Ford Mustang Shelby GT500",
+    "description": "Potente muscle car con motor V8 de 760 caballos de fuerza, suspensión de alto rendimiento y un diseño agresivo. Ideal para los amantes de la velocidad.",
+    "image": "https://bit.ly/40KtpUQ",
+    "cost": 2200000.00
+  },
+  {
+    "title": "Dodge Charger SRT Hellcat",
+    "description": "Sedán de altas prestaciones con motor HEMI V8 supercargado de 717 caballos de fuerza. Potente, rápido y con una presencia imponente.",
+    "image": "https://bit.ly/40MrS0O",
+    "cost": 1200000.00
+  },
+  {
+    "title": "Chevrolet Camaro ZL1",
+    "description": "Muscle car con motor V8 supercargado de 650 caballos de fuerza, transmisión de 10 velocidades y un diseño agresivo que destaca en la carretera.",
+    "image": "https://bit.ly/4ero8Vr",
+    "cost": 1650000.00
+  },
+  {
+    "title": "Dodge Viper ACR",
+    "description": "Un superdeportivo clásico con motor V10 de 645 caballos de fuerza. La combinación perfecta de potencia, control y un diseño agresivo que nunca pasa desapercibido.",
+    "image": "https://bit.ly/3Z2tq5g",
+    "cost": 2000000.00
+  },
+  {
+    "title": "Chrysler 300C SRT8",
+    "description": "Sedán deportivo con motor V8 de 470 caballos de fuerza, diseño imponente y una experiencia de conducción refinada para los que buscan lujo y rendimiento.",
+    "image": "https://bit.ly/48MXpRU",
+    "cost": 600000.00
+  },
+  {
+    "title": "Dodge Challenger Hellcat Redeye",
+    "description": "Muscle car con motor HEMI V8 de 797 caballos de fuerza, diseñado para ofrecer una potencia impresionante y un rendimiento excepcional en cada aceleración.",
+    "image": "https://bit.ly/4fvNByA",
+    "cost": 1800000.00
+  },
+  {
+    "title": "Chevrolet Corvette Z06",
+    "description": "Un superdeportivo de altas prestaciones con motor V8 de 650 caballos de fuerza, tecnología avanzada y un diseño aerodinámico para ofrecer una experiencia de conducción extrema.",
+    "image": "https://acortar.link/19dAec",
+    "cost": 1500000.00
+  },
+  {
+    "title": "Ford Mustang GT350R",
+    "description": "Versión de alto rendimiento del Mustang con motor V8 de 526 caballos de fuerza, suspensión deportiva y un sistema de frenos avanzado para una conducción sin igual.",
+    "image": "https://bit.ly/4fN6qwC",
+    "cost": 1350000.00
+  },
+  {
+    "title": "Dodge Durango SRT",
+    "description": "SUV de alto rendimiento con motor V8 HEMI de 475 caballos de fuerza, diseño robusto y capacidades excepcionales de remolque y velocidad.",
+    "image": "https://acortar.link/ETwdqS",
+    "cost": 2500000.00
+  }
+]
